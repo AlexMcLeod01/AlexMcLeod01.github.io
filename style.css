@@ -3,4 +3,6 @@ body {
  color: white;
  background-color: teal;
 }
-
+.resize_image {
+ width: 50%
+}
