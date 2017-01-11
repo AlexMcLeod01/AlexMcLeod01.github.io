@@ -6,3 +6,25 @@ body {
 .resize_image {
  width: 50%
 }
+.thumb-img {
+ width:250px;
+ height:250px;
+}
+.thumb-size {
+ width:100%;
+ height:auto;
+}
+.thumb-calc {
+ background:url(https://scontent-mia1-1.xx.fbcdn.net/v/t1.0-9/15873228_10100881814349272_3693796561946749485_n.jpg?oh=c7aca56c9eee14e09931351b966f9464&oe=58D91FB2)top center;
+}
+.thumb-weather {
+ background:url(https://scontent-mia1-1.xx.fbcdn.net/v/t1.0-9/15941251_10100881147630382_3444598518772630885_n.jpg?oh=c9e903d715ce6e1fcd86e31c6dce1331&oe=5917C091) top center;
+}
+.thumb-wiki {
+ background:url(https://scontent-mia1-1.xx.fbcdn.net/v/l/t1.0-9/15826821_10100881147620402_3821894889598327554_n.jpg?oh=2a3eacf502dcec11636fdaffbfc390e8&oe=59128EFA);
+ background-position: top center;
+}
+.thumb-quote {
+ background-image:url(https://scontent-mia1-1.xx.fbcdn.net/v/t1.0-9/15940836_10100881147625392_1178124541515067494_n.jpg?oh=cbc24c61f27a2ca528d173065bc4b544&oe=591ED3F0);
+ background-position:top center;
+}
