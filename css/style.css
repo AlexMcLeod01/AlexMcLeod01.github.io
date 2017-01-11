@@ -3,6 +3,17 @@ body {
  color: white;
  background-color: teal;
 }
+.nav-pills>li>a {
+    padding-top: 0px;
+    padding-bottom: 5px;
+}
+.navbar {
+ padding-top:0px;
+ min-height:0px !important
+}
+.nav-height-fix{
+ height:60px;
+}
 .resize_image {
  width: 50%
 }
@@ -12,7 +23,7 @@ body {
 }
 .thumb-size {
  width:100%;
- height:auto;
+ height:500px;
 }
 .thumb-calc {
  background:url(https://scontent-mia1-1.xx.fbcdn.net/v/t1.0-9/15873228_10100881814349272_3693796561946749485_n.jpg?oh=c7aca56c9eee14e09931351b966f9464&oe=58D91FB2)top center;
@@ -27,4 +38,5 @@ body {
 .thumb-quote {
  background-image:url(https://scontent-mia1-1.xx.fbcdn.net/v/t1.0-9/15940836_10100881147625392_1178124541515067494_n.jpg?oh=cbc24c61f27a2ca528d173065bc4b544&oe=591ED3F0);
  background-position:top center;
+ background-repeat:no-repeat;
 }
