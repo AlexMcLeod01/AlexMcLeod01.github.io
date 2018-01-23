@@ -19,12 +19,12 @@ const Pics = React.createClass ({
         
         return (
             <Carousel style={style} ref="carousel" data={this.setCarouselData.bind(this, 'carousel')} autoplay={true} speed="10" wrapAround={true}>
-                <img style={style} src="http://i345.photobucket.com/albums/p379/AlexMcLeod01/20170426_084844_zpskf4fe31g.jpg"/>
-                <img style={style} src="http://i345.photobucket.com/albums/p379/AlexMcLeod01/20170426_101108_zpsmsgiv75o.jpg"/>
-                <img style={style} src="http://i345.photobucket.com/albums/p379/AlexMcLeod01/20170426_101214_01_zpsawtptzdj.jpg"/>
-                <img style={style} src="http://i345.photobucket.com/albums/p379/AlexMcLeod01/20170426_135134_zpspiriyhb3.jpg"/>
-                <img style={style} src="http://i345.photobucket.com/albums/p379/AlexMcLeod01/20170428_092055_zps0quqcnwj.jpg"/>
-                <img style={style} src="http://i345.photobucket.com/albums/p379/AlexMcLeod01/20170425_084045_zpsxgtspiel.jpg"/>
+                <img style={style} src="../images/oahuview.jpg"/>
+                <img style={style} src="../images/palilookout.jpg"/>
+                <img style={style} src="../images/indianbanyan.jpg"/>
+                <img style={style} src="../images/banyanroots.jpg"/>
+                <img style={style} src="../images/hanaumabay.jpg"/>
+                <img style={style} src="../images/palilookout2.jpg"/>
             </Carousel>
         )
     }
