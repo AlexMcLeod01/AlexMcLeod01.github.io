@@ -24070,9 +24070,9 @@ var Pics = _react2.default.createClass({
             _react2.default.createElement("img", { style: style, src: "../images/oahuview.jpg" }),
             _react2.default.createElement("img", { style: style, src: "../images/palilookout.jpg" }),
             _react2.default.createElement("img", { style: style, src: "../images/indianbanyan.jpg" }),
-            _react2.default.createElement("img", { style: style, src: "../images/banyanroots.jpg" }),
-            _react2.default.createElement("img", { style: style, src: "../images/hanaumabay.jpg" }),
-            _react2.default.createElement("img", { style: style, src: "../images/palilookout2.jpg" })
+            _react2.default.createElement("img", { style: style, src: "../images/banyanroots.JPG" }),
+            _react2.default.createElement("img", { style: style, src: "../images/hanaumabay.JPG" }),
+            _react2.default.createElement("img", { style: style, src: "../images/palilookout2.JPG" })
         );
     }
 });

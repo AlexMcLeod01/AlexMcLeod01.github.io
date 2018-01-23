@@ -22,9 +22,9 @@ const Pics = React.createClass ({
                 <img style={style} src="../images/oahuview.jpg"/>
                 <img style={style} src="../images/palilookout.jpg"/>
                 <img style={style} src="../images/indianbanyan.jpg"/>
-                <img style={style} src="../images/banyanroots.jpg"/>
-                <img style={style} src="../images/hanaumabay.jpg"/>
-                <img style={style} src="../images/palilookout2.jpg"/>
+                <img style={style} src="../images/banyanroots.JPG"/>
+                <img style={style} src="../images/hanaumabay.JPG"/>
+                <img style={style} src="../images/palilookout2.JPG"/>
             </Carousel>
         )
     }
